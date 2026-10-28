@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Machine disk images, memory dumps, and snapshots
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.vmem
+*.vmsn
+*.vmsd
+*.nvram
+*.iso
+*.ova
+*.ovf
+*.vmx.lck
+*.vmdk.lck
+*.log
+*.pcapng.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files and scratch
+scratch/
+tmp/
+*.tmp
