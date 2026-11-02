@@ -1,7 +1,7 @@
 # Laboratory Setup Guide: Malware Analysis Sandbox
 
-**Student Name:** Rushikesh Valmik Nirmal  
-**PRN:** 2125UCSM1016  
+**Student Name:** Aditya Arun Shelke  
+**PRN:** 2125UCSM1052  
 **Course:** B.Tech Computer Science Engineering (Cyber Security)  
 **Institution:** Sanjivani University, Kopargaon  
 **Subject:** NPC Capstone Project  

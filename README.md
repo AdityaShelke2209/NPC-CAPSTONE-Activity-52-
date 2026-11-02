@@ -6,12 +6,12 @@
 [![Report](https://img.shields.io/badge/Report-PDF%20Available-orange.svg)](report/NPC_Capstone_Malware_Analysis_Sandbox_Report.pdf)
 
 > **Official Capstone Project Deliverable**  
-> **Student Name:** Rushikesh Valmik Nirmal  
-> **PRN:** 2125UCSM1016  
+> **Student Name:** Aditya Arun Shelke  
+> **PRN:** 2125UCSM1052  
 > **Degree:** Bachelor of Technology (B.Tech) in Computer Science Engineering  
 > **Specialization:** Cyber Security  
 > **Institution:** Sanjivani University, Kopargaon  
-> **Subject:** NPC Capstone Project  
+> **Subject:** NPC (Unit 1)  
 
 ---
 
@@ -19,8 +19,11 @@
 
 The complete, university-formatted academic PDF report is compiled and available in this repository:
 
-👉 **[Download the Capstone Project Report](report/NPC_Capstone_Malware_Analysis_Sandbox_Report.pdf)** (39 KB, 14 Pages, well below the university 10 MB limit)  
-👉 **[View Editable Report Source Markdown](report/report_source.md)**
+👉 **[Download the Capstone Project Report (PDF)](Report.pdf)** (39 KB, 14 Pages, well below the university 10 MB limit)  
+👉 **[Download the Capstone Project Report (Word .docx)](Report.docx)** (Editable document)  
+👉 **[Download Project Network Capture (.pcapng)](project_file.pcapng)** (Wireshark packet capture)  
+👉 **[View Editable Report Source Markdown](report/report_source.md)**  
+👉 **[View Screenshots Catalog](screenshots/README.md)**
 
 ---
 

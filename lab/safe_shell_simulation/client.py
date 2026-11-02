@@ -3,8 +3,8 @@
 ===============================================================================
 NPC CAPSTONE PROJECT: SAFE TEST CLIENT FOR BIND-SHELL SIMULATION
 ===============================================================================
-Student Name    : Rushikesh Valmik Nirmal
-PRN Number      : 2125UCSM1016
+Student Name    : Aditya Arun Shelke
+PRN Number      : 2125UCSM1052
 Course          : B.Tech Computer Science Engineering (Cyber Security)
 Institution     : Sanjivani University, Kopargaon
 Subject         : NPC Capstone Project
@@ -28,7 +28,7 @@ BUFFER_SIZE = 2048
 def run_client():
     print("=" * 65)
     print(" NPC CAPSTONE: SAFE TEST CLIENT FOR BIND-SHELL SIMULATION")
-    print(" Author: Rushikesh Valmik Nirmal (PRN: 2125UCSM1016)")
+    print(" Author: Aditya Arun Shelke (PRN: 2125UCSM1052)")
     print("=" * 65)
     print(f"[*] Attempting connection to local simulation server at {HOST}:{PORT}...")
 

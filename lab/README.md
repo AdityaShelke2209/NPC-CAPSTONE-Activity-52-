@@ -1,7 +1,7 @@
 # Laboratory Directory
 
-**Student:** Rushikesh Valmik Nirmal  
-**PRN:** 2125UCSM1016  
+**Student:** Aditya Arun Shelke  
+**PRN:** 2125UCSM1052  
 **Institution:** Sanjivani University, Kopargaon  
 **Course:** B.Tech CSE (Cyber Security)  
 

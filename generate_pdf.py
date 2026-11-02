@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Academic PDF Report Generator for NPC Capstone Project
-Student: Rushikesh Valmik Nirmal | PRN: 2125UCSM1016
+Student: Aditya Arun Shelke | PRN: 2125UCSM1052
 Sanjivani University, Kopargaon
 """
 
@@ -65,7 +65,7 @@ class NumberedCanvas(canvas.Canvas):
 
         # Running Footer
         self.line(54, 46, 8.5 * 72 - 54, 46)
-        self.drawString(54, 34, "Student: Rushikesh Valmik Nirmal | PRN: 2125UCSM1016")
+        self.drawString(54, 34, "Student: Aditya Arun Shelke | PRN: 2125UCSM1052")
         page_str = f"Page {self._pageNumber} of {page_count}"
         self.drawRightString(8.5 * 72 - 54, 34, page_str)
         self.restoreState()
@@ -204,8 +204,8 @@ def build_pdf(filename):
 
     # Student metadata table card
     info_data = [
-        [Paragraph("<b>Submitted By:</b>", table_header), Paragraph("Rushikesh Valmik Nirmal", table_cell)],
-        [Paragraph("<b>PRN Number:</b>", table_header), Paragraph("<b>2125UCSM1016</b>", table_cell)],
+        [Paragraph("<b>Submitted By:</b>", table_header), Paragraph("Aditya Arun Shelke", table_cell)],
+        [Paragraph("<b>PRN Number:</b>", table_header), Paragraph("<b>2125UCSM1052</b>", table_cell)],
         [Paragraph("<b>Program / Degree:</b>", table_header), Paragraph("Bachelor of Technology (B.Tech)", table_cell)],
         [Paragraph("<b>Department:</b>", table_header), Paragraph("Computer Science Engineering", table_cell)],
         [Paragraph("<b>Specialization:</b>", table_header), Paragraph("Cyber Security", table_cell)],
@@ -213,7 +213,7 @@ def build_pdf(filename):
         [Paragraph("<b>Academic Year:</b>", table_header), Paragraph("2026–2027", table_cell)],
         [Paragraph("<b>Subject:</b>", table_header), Paragraph("NPC (Network Programming & Cyber Security)", table_cell)],
         [Paragraph("<b>Project Type:</b>", table_header), Paragraph("Capstone Project Submission", table_cell)],
-        [Paragraph("<b>Repository:</b>", table_header), Paragraph("https://github.com/RushikeshNirmal45/npc-capstone", table_cell)]
+        [Paragraph("<b>Repository:</b>", table_header), Paragraph("https://github.com/AdityaShelke2209/NPC-CAPSTONE-Activity-52-", table_cell)]
     ]
     info_table = Table(info_data, colWidths=[140, 290])
     info_table.setStyle(TableStyle([

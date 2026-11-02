@@ -6,8 +6,8 @@
 
 ### Student Identification & Academic Details
 
-- **Student Name:** Rushikesh Valmik Nirmal
-- **PRN Number:** 2125UCSM1016
+- **Student Name:** Aditya Arun Shelke
+- **PRN Number:** 2125UCSM1052
 - **Course:** Bachelor of Technology (B.Tech)
 - **Department:** Computer Science Engineering
 - **Specialization:** Cyber Security
